@@ -111,5 +111,5 @@ function display(){
 		   <td>${emp.gender}</td>
 		</tr>`
 		}
-		document.getElementById('tbody').innerHTML = rowsgit 
+		document.getElementById('tbody').innerHTML = rows
 }
